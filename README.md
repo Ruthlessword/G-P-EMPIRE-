@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to G&P EMPIRE 
 
-You can use the [editor on GitHub](https://github.com/Ruthlessword/G-P-EMPIRE-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## THE HOME OF GOOD MUSIC & STORIES TELLING
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+at G&P EMPIRE we are specilist in good music and good music videos. G&P Empire produce and publish artists. models, actors and actress worldwide
+                                                      ## G&P worldwide
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ruthlessword/G-P-EMPIRE-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Follow https://mandrillapp.com/track/click/30043864/www.n1m.com?p=eyJzIjoia09vdzEyLWQ2dFFCb2lyMUNhSDdfZTZDc0owIiwidiI6MSwicCI6IntcInVcIjozMDA0Mzg2NCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uMW0uY29tXFxcL1lvdW5nRytkZStTZXJnZW50XCIsXCJpZFwiOlwiMzc5MTU5NjFiMGFjNDdlMzg2NjBkZmYyMDdmZmY0MjBcIixcInVybF9pZHNcIjpbXCJlOGQxNzYwOGJmMjc5YjNhZjEyZDc0YzM3NDBhOGZkMzU0NjlkZTU2XCJdfSJ9
+
+
+https://www.n1m.com/dashboard
